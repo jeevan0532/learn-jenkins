@@ -1,8 +1,6 @@
 @Library('roboshop') _
 
-env.abc = "jesus is my lord"
+env.component = "frontend"
+env.app_lang = "nginx"
 
-
-
-log.data 'stating'
-log.message 'warning'
+ci()
