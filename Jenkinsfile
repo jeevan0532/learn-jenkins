@@ -2,4 +2,7 @@
 
 env.abc = "jesus is my lord"
 
-test.hi()
+test1.message()
+
+log.data 'stating'
+log.message 'warning'
